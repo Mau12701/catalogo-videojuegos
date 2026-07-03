@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-# Game Catalog
+# Games Catálogo
 
 Aplicación web desarrollada con React, TypeScript y Tailwind CSS para explorar videojuegos utilizando la RAWG Video Games Database API. Permite buscar, filtrar y consultar información detallada de más de 500,000 títulos mediante una interfaz inspirada en plataformas de distribución digital.
 
@@ -7,7 +6,7 @@ Aplicación web desarrollada con React, TypeScript y Tailwind CSS para explorar 
 
 ## Descripción
 
-Game Catalog consume la API de RAWG para mostrar información actualizada sobre videojuegos. La aplicación ofrece búsqueda en tiempo real, filtros por género y plataforma, ordenamiento de resultados y una vista detallada de cada juego con imágenes, descripción, puntuaciones y plataformas disponibles.
+Games Catálogo consume la API de RAWG para mostrar información actualizada sobre videojuegos. La aplicación ofrece búsqueda en tiempo real, filtros por género y plataforma, ordenamiento de resultados y una vista detallada de cada juego con imágenes, descripción, puntuaciones y plataformas disponibles.
 
 Este proyecto fue desarrollado con el objetivo de practicar el consumo de APIs REST, la construcción de interfaces modernas con React y la organización de aplicaciones mediante componentes reutilizables y TypeScript.
 
