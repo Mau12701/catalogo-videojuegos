@@ -159,6 +159,4 @@ mauriescobar127@outlook.com
 
 ---
 
-Proyecto desarrollado con fines educativos y para portafolio profesional.
-=======
 
